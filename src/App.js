@@ -6,6 +6,8 @@ function App() {
 
       <h1>Projecti MERN</h1>
       <h1>UPDATE 1</h1>
+      <h1>UPDATE 1 prej GITHUB</h1>
+
 
       
     </div>
